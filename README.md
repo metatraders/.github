@@ -1,2 +1,1 @@
-# .github
-Meta traders
+# Meta Traders
